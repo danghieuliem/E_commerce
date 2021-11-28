@@ -1,0 +1,36 @@
+2
+2
+NULL
+Tiem Sach Cu Biblia 7
+Tieu Thuyet
+MIKAMI EN
+Nha Xuat Ban Hong Duc
+1 6 2019
+95000
+40
+6
+NULL
+Nha Gia kim
+Tieu Thuyet
+Paulo Coelho
+Nha Xuat Ban Van hoc
+1 10 2013
+69000
+35
+1
+Thu Aug 22 14:31:46 2019
+639000
+367501
+1
+NULL
+Nha Gia kim
+Tieu Thuyet
+Paulo Coelho
+Nha Xuat Ban Van hoc
+1 10 2013
+69000
+35
+5
+Thu Aug 22 14:32:31 2019
+345000
+213032
